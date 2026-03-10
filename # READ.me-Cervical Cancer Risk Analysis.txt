@@ -25,6 +25,7 @@ Key insights from the analysis include:
 - Higher case concentration appears in younger and middle age groups.
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+   
+
 
 ## Project Structure
