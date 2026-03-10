@@ -28,4 +28,5 @@ Key insights from the analysis include:
 
 <img width="1247" height="646" alt="cervical_cancer_dashboard" src="https://github.com/user-attachments/assets/33c4d0e3-ad52-4d6c-a0c8-4181a994d986" />
 
-## Project Structure
+Author
+Ayushi Mamgain
