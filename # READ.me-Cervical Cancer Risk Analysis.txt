@@ -24,8 +24,4 @@ Key insights from the analysis include:
 - Smoking and STD history correlate with increased diagnosis risk.
 - Higher case concentration appears in younger and middle age groups.
 
-## Dashboard Preview
-   
 
-
-## Project Structure
